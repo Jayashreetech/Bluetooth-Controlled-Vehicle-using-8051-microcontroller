@@ -7,7 +7,7 @@ Developed a **Bluetooth-controlled robotic vehicle** capable of real-time naviga
 Microcontroller   : AT89S52 (8051)  
 Programming       : Embedded C  
 Motor Driver      : L293D IC  
-Communication     : HC-05 / HC-06 Bluetooth  
+Communication     : HC-05 Bluetooth  
 Power Supply      : Battery Pack with Voltage Regulator  
 Hardware          : DC motors, wheels, chassis, crystal oscillator  
 Development Tools : Keil uVision (IDE), Proteus Design Suite (simulation)  
