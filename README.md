@@ -1,7 +1,7 @@
 # Bluetooth Controlled Robot Using 8051 Microcontroller
 
 ## Project Objective
-Developed a **Bluetooth-controlled robotic vehicle** capable of real-time navigation using the 8051 microcontroller and motor driver ICs. The project highlights **practical embedded system design, wireless communication, and hardware-software integration**, demonstrating the ability to solve real-world automation challenges.
+Developed a **Bluetooth controlled robotic vehicle** capable of real-time navigation using the 8051 microcontroller and motor driver ICs. The project highlights **practical embedded system design, wireless communication, and hardware-software integration**, demonstrating the ability to solve real-world automation challenges.
 
 ## Tools & Technologies
 Microcontroller   : AT89S52 (8051)  
